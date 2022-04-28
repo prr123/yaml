@@ -1,0 +1,4 @@
+success! 60 data written!
+read bytes: 60
+Result: {{window blue small}}
+item: window
